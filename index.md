@@ -326,12 +326,12 @@ h2 { text-align: center; color: #24292f; margin: 40px 0 20px 0; }
 <div style="text-align: center;">
   <h2>Dein Leben, nicht dein Job</h2>
   <div class="gallery-grid">
-    <img src="/images/chart1.jpg" alt="Ein Signal. Eine Regel. Eine Entscheidung. Fertig." title="Ein Signal. Eine Regel. Eine Entscheidung. Fertig." style="background: linear-gradient(135deg, #667eea, #764ba2);">
+    <img src="images/chart1.jpg" alt="Ein Signal. Eine Regel. Eine Entscheidung. Fertig." title="Ein Signal. Eine Regel. Eine Entscheidung. Fertig." style="background: linear-gradient(135deg, #667eea, #764ba2);">
     <img src="/images/chart2.jpg" alt="Kein Noise" title="Kein Noise – nur relevante Signale." style="background: linear-gradient(135deg, #ff6b35, #f7931e);">
-    <img src="/images/chart3.jpg" alt="Die Märkte sind komplex. Ihre Strategie ist einfach." title="Die Märkte sind komplex. Ihre Strategie ist einfach." style="background: linear-gradient(135deg, #764ba2, #667eea);">
-    <img src="/images/chart4.jpg" alt="Sie sehen, was passiert" title="Sie sehen, was passiert – nicht nur, was *könnte*." style="background: linear-gradient(135deg, #00ff88, #00cc6a);">
-    <img src="/images/chart5.jpg" alt="Keine Überraschungen. Nur vorhersehbare Prozesse." title="Keine Überraschungen. Nur vorhersehbare Prozesse." style="background: linear-gradient(135deg, #ff4757, #ff3838);">
-    <img src="/images/chart6.jpg" alt="Entscheidungen aus Ruhe" title="Entscheidungen aus Ruhe – nicht aus Panik." style="background: linear-gradient(135deg, #f7931e, #ff6b35);">
+    <img src="images/chart3.jpg" alt="Die Märkte sind komplex. Ihre Strategie ist einfach." title="Die Märkte sind komplex. Ihre Strategie ist einfach." style="background: linear-gradient(135deg, #764ba2, #667eea);">
+    <img src="images/chart4.jpg" alt="Sie sehen, was passiert" title="Sie sehen, was passiert – nicht nur, was *könnte*." style="background: linear-gradient(135deg, #00ff88, #00cc6a);">
+    <img src="images/chart5.jpg" alt="Keine Überraschungen. Nur vorhersehbare Prozesse." title="Keine Überraschungen. Nur vorhersehbare Prozesse." style="background: linear-gradient(135deg, #ff4757, #ff3838);">
+    <img src="images/chart6.jpg" alt="Entscheidungen aus Ruhe" title="Entscheidungen aus Ruhe – nicht aus Panik." style="background: linear-gradient(135deg, #f7931e, #ff6b35);">
   </div>
 </div>
 
@@ -442,4 +442,5 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 });
+
 </script>
